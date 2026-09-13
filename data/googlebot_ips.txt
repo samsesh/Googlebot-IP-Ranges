@@ -1,5 +1,5 @@
 # Googlebot IP Ranges
-# Updated: 2026-09-12 06:42:11
+# Updated: 2026-09-13 06:59:55
 
 ## IPv4
 192.178.4.0/27
